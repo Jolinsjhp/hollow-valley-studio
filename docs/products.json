@@ -1,0 +1,77 @@
+[
+  {
+    "id": "piece-189",
+    "title": "The sunflower wanderer",
+    "description": "A sculptural cat-shaped cup with an orange tabby, a sky-blue interior and an illustrated sunflower garden. A tiny landscape to carry into the everyday.",
+    "image": "assets/work-189.webp",
+    "category": "Cat cups",
+    "alt": "Orange cat ceramic cup with a sunflower landscape",
+    "subtitle": "Cat-shaped cup · A garden carried along",
+    "visible": true,
+    "frames": [
+      "assets/work-200.webp",
+      "assets/work-201.webp",
+      "assets/work-202.webp",
+      "assets/work-203.webp"
+    ]
+  },
+  {
+    "id": "piece-286",
+    "title": "A striped little explorer",
+    "description": "A striped cat becomes part of the cup itself. Bright flowers and a pale blue interior give this little companion its own world of colour.",
+    "image": "assets/work-286.webp",
+    "category": "Cat cups",
+    "alt": "Striped cat ceramic cup with bright flowers and a blue interior",
+    "subtitle": "Cat-shaped cup · A different travelling companion",
+    "visible": true,
+    "frames": [
+      "assets/work-286.webp",
+      "assets/work-288.webp",
+      "assets/work-292.webp"
+    ]
+  },
+  {
+    "id": "piece-151",
+    "title": "A postcard from the clouds",
+    "description": "Cloud-like blue and pink washes surround a small raised cat motif. An illustrated ceramic plate that feels like a postcard from a daydream.",
+    "image": "assets/work-151.webp",
+    "category": "Plates",
+    "alt": "Blue, pink and white ceramic plate with a raised cat motif",
+    "subtitle": "Illustrated plate · A tiny daydream",
+    "visible": true,
+    "frames": []
+  },
+  {
+    "id": "piece-220",
+    "title": "The slow afternoon",
+    "description": "A floral cup, scalloped saucer and decorated spoon bring the valley to the table. Tiny cat details invite a closer look.",
+    "image": "assets/work-220.webp",
+    "category": "Tableware",
+    "alt": "Floral ceramic cup, scalloped saucer and spoon with small cat details",
+    "subtitle": "Floral tableware · Time for a little pause",
+    "visible": true,
+    "frames": []
+  },
+  {
+    "id": "piece-133",
+    "title": "A gathering of stories",
+    "description": "An ensemble of illustrated ceramic mugs in soft colours. Each little scene adds another page to the ceramic picture book.",
+    "image": "assets/work-133.webp",
+    "category": "Mugs",
+    "alt": "A group of pastel ceramic mugs with illustrated scenes",
+    "subtitle": "Illustrated mugs · Companions for the everyday",
+    "visible": true,
+    "frames": []
+  },
+  {
+    "id": "piece-66",
+    "title": "A pocket-sized companion",
+    "description": "A small ceramic cat detail on a beaded cord, bringing the idea of companionship into something you can carry with you.",
+    "image": "assets/work-66.webp",
+    "category": "Jewellery",
+    "alt": "A small cat-themed ceramic pendant on a beaded cord",
+    "subtitle": "Ceramic jewellery · A little valley to take with you",
+    "visible": true,
+    "frames": []
+  }
+]
